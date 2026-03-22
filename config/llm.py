@@ -6,7 +6,6 @@ LLM 팩토리
 """
 from functools import lru_cache
 from langchain_google_vertexai import ChatVertexAI, VertexAIEmbeddings
-from langchain_openai import OpenAIEmbeddings
 from config.settings import settings
 
 
