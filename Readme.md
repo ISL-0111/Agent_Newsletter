@@ -1,6 +1,6 @@
 ### **Agent Newsletter**
 
-A `LangGraph-based agent` that collects newsletters from `Gmail` (unread), deduplicates them, classifies and summarizes them (with optional crawling or vision), persists embeddings for search, and delivers results via `Telegram`.
+A `LangGraph-based agent` that collects newsletters from `Gmail` (unread), classifies and summarizes them, save their embeddings for search on demand, and delivers results via `Telegram`(Two-way).
 
 #### Project layout
 
